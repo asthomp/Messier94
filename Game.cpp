@@ -1,5 +1,5 @@
 /*********************************************************************
-** Program name: Project 5
+** Program name: Messier94
 ** Author: Aaron Thompson
 ** Date: 12/10/2019
 ** Description: The Game class introduces the user to the game,

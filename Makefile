@@ -1,7 +1,7 @@
 #Code adapted from Harlan James's (waldroha@oregonstate.edu) example.
 
 #Project Name
-PROJECT = Project5
+PROJECT = Messier94
 
 #Compiler
 ${CXX} = g++
@@ -64,7 +64,7 @@ ${PROJECT}: ${OBJECT}
 	@${CXX} ${CFLAGS} -c $^
 
 zip:
-	zip Project5_Thompson_Aaron.zip *.cpp *.hpp *.txt *.pdf Makefile
+	zip Messier94_Thompson_Aaron.zip *.cpp *.hpp *.txt Makefile
 
 clean: ${CLEAN}
 	@echo "RM	*.o"

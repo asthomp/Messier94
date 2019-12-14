@@ -1,5 +1,5 @@
 /*********************************************************************
-** Program name: Reusable
+** Program name: Messier94
 ** Author: Aaron Thompson
 ** Date: 12/10/2019
 ** Description: The menu functions receive user input (either numeric
