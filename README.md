@@ -1,2 +1,2 @@
 # Messier94
-A text-only adventure game with simple mechanics. :D
+A science-fiction themed text-only adventure game with simple mechanics. The game demonstrates polymorphism, inheritance, dynamic arrays, and linked list data structures. 
